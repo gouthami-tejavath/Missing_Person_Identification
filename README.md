@@ -105,8 +105,6 @@ Before running the project, update your Twilio credentials in `app.py`:
 account_sid = "YOUR_SID"
 auth_token = "YOUR_TOKEN"
 twilio_number = "YOUR_TWILIO_NUMBER"
-```
-
 ---
 
 ## 🎯 Future Improvements
