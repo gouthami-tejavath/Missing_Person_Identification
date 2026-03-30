@@ -116,8 +116,4 @@ twilio_number = "YOUR_TWILIO_NUMBER"
 * Improve UI design
 * Add multiple camera support
 
----
 
-## 👨‍💻 Author
-
-Your Name
